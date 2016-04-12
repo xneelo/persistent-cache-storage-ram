@@ -9,7 +9,7 @@ describe Persistent::StorageRAM do
 
   context "when released" do
     it 'has a version number' do
-      expect(Persistent::Cache::Storage::Ram::VERSION).not_to be nil
+      expect(Persistent::Storage::Ram::VERSION).not_to be nil
     end
   end
 

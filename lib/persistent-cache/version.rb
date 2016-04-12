@@ -1,9 +1,7 @@
 module Persistent
-  module Cache
-    module Storage
-      module Ram
-        VERSION = "0.1.0"
-      end
+  module Storage
+    module Ram
+      VERSION = "0.1.1"
     end
   end
 end

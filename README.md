@@ -1,4 +1,4 @@
-# Persistent::Cache::StorageRAM
+# Persistent::StorageRAM
 
 This gem provides a RAM storage back-end to Persistent::Cache. Please see https://rubygems.org/gems/persistent-cache.
 

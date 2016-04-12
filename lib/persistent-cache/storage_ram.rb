@@ -4,7 +4,7 @@ require "persistent-cache/storage_api"
 require "eh/eh"
 
 module Persistent
-  class StorageRAM < Persistent::Cache::StorageApi::API
+  class StorageRAM < Persistent::Storage::API
     attr_accessor :storage
 
     def initialize()

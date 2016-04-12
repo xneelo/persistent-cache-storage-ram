@@ -5,7 +5,7 @@ require 'persistent-cache/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "persistent-cache-storage-ram"
-  spec.version       = Persistent::Cache::Storage::Ram::VERSION
+  spec.version       = Persistent::Storage::Ram::VERSION
   spec.authors       = ["Ernst Van Graan"]
   spec.email         = ["ernst.van.graan@hetzner.co.za"]
 
