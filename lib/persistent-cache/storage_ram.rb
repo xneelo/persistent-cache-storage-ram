@@ -7,7 +7,7 @@ module Persistent
   class StorageRAM < Persistent::Storage::API
     attr_accessor :storage
 
-    def initialize()
+    def initialize(storage_details = nil)
       @storage = {}
     end
 
