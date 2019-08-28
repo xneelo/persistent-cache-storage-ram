@@ -6,12 +6,12 @@ require 'persistent-cache/version'
 Gem::Specification.new do |spec|
   spec.name          = "persistent-cache-storage-ram"
   spec.version       = Persistent::Storage::Ram::VERSION
-  spec.authors       = ["Ernst Van Graan"]
-  spec.email         = ["ernst.van.graan@hetzner.co.za"]
+  spec.authors       = ["Ernst Van Graan", "xneelo (Pty) Ltd"]
+  spec.email         = ["ernst.vangraan@gmail.com"]
 
   spec.summary       = %q{This gem provides a RAM storage back-end to Persistent::Cache}
   spec.description   = %q{This gem provides a RAM storage back-end to Persistent::Cache}
-  spec.homepage      = "https://github.com/evangraan/persistent-cache-storage-ram"
+  spec.homepage      = "https://github.com/xneelo/persistent-cache-storage-ram"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
