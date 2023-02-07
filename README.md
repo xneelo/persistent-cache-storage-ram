@@ -1,9 +1,8 @@
 # Persistent::StorageRAM
 
-[![Gem Version](https://badge.fury.io/rb/persistent-cache-storage-ram.png)](https://badge.fury.io/rb/persistent-cache-storage-ram)
-[![Build Status](https://travis-ci.org/evangraan/persistent-cache-storage-ram.svg?branch=master)](https://travis-ci.org/evangraan/persistent-cache-storage-ram)
-[![Coverage Status](https://coveralls.io/repos/github/evangraan/persistent-cache-storage-ram/badge.svg?branch=master)](https://coveralls.io/github/evangraan/persistent-cache-storage-ram?branch=master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/08eedbc4456b49f990802d3730667aa8)](https://www.codacy.com/app/ernst-van-graan/persistent-cache-storage-ram?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=evangraan/persistent-cache-storage-ram&amp;utm_campaign=Badge_Grade)
+[![Gem Version](https://badge.fury.io/rb/persistent-cache-storage-ram.svg)](https://badge.fury.io/rb/persistent-cache-storage-ram)
+[![Build Status](https://github.com/xneelo/persistent-cache-storage-ram/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/xneelo/persistent-cache-storage-ram/actions/workflows/test.yml)
+[![Coverage Status](https://coveralls.io/repos/github/xneelo/persistent-cache-storage-ram/badge.svg?branch=master)](https://coveralls.io/github/xneelo/persistent-cache-storage-ram?branch=master)
 
 This gem provides a RAM storage back-end to Persistent::Cache. Please see https://rubygems.org/gems/persistent-cache.
 
